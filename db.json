@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "rani",
+      "age": "21",
+      "DOB": "2022-06-09",
+      "address": "INAMDARPURA KARAJGOAN",
+      "state": "Maharashtra",
+      "pincode": "444809",
+      "id": 2
+    },
+    {
+      "name": "Milind Shelake",
+      "age": "33",
+      "DOB": "2022-04-29",
+      "address": "INAMDARPURA KARAJGOAN",
+      "state": "Maharashtra",
+      "pincode": "444809",
+      "id": 3
+    },
+    {
+      "name": "kajalg11",
+      "age": "33",
+      "DOB": "2022-04-06",
+      "address": "INAMDARPURA KARAJGOAN",
+      "state": "Maharashtra",
+      "pincode": "444809",
+      "id": 4
+    },
+    {
+      "name": "madhan",
+      "age": "2",
+      "DOB": "2022-04-20",
+      "address": "INAMDARPURA KARAJGOAN",
+      "state": "Maharashtra",
+      "pincode": "444809",
+      "id": 5
+    },
+    {
+      "name": "Kajal Ganorkar ",
+      "age": "24",
+      "DOB": "2022-04-05",
+      "address": "INAMDARPURA KARAJGOAN",
+      "state": "Maharashtra",
+      "pincode": "444809",
+      "id": 6
+    }
+  ]
+}
